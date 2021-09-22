@@ -1,0 +1,7 @@
+{
+  "jsxBracketSameLine": true,
+  "printWidth": 280,
+  "semi": false,
+  "tabWidth": 4,
+  "trailingComma": "es5"
+}
